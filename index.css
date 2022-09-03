@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+}
+.timerback{
+    background-color: black;
+    color: white;
+    align-items: center;
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+   
+}
+.timer{
+    align-items: center;
+    text-align: center;
+    font-family:cursive;
+    
+}
+.allbtn{
+   margin-left:34px ;
+    color: red;
+    margin-top:5px ;
+}
+.start{
+    color: white;
+    background-color: red;
+padding: 2px;
+border: 2px solid;
+border-radius: 5px;
+}
+.pause{
+        color: white;
+    background-color: red;
+padding: 2px;
+border: 2px solid;
+border-radius: 5px;
+
+}
+.reset{
+        color: white;
+    background-color: red;
+padding: 2px;
+border: 2px solid;
+border-radius: 5px;
+}
+button{
+    cursor: pointer;
+}
+.img{
+    margin-top: 5px;
+    width: 50px;
+}
